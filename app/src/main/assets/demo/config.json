@@ -1,0 +1,18 @@
+{
+    "product": "EasyDL",
+    "modelType": 2,
+    "modelName": "deep-activity-rec-edV1",
+    "releaseId": 102255,
+    "nType": 103,
+    "thresholdRec": 0.2,
+    "apiUrl": null,
+    "ak": null,
+    "sk": null,
+    "soc": "arm",
+    "extra": {
+        "thresholdRec": 0.2,
+        "fluid": {
+            "optType": "nb"
+        }
+    }
+}

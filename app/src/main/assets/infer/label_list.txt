@@ -1,0 +1,9 @@
+[default]
+waiting
+standing
+spiking
+setting
+moving
+falling
+digging
+blocking

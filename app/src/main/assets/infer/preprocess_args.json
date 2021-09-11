@@ -1,0 +1,26 @@
+{
+    "img_mean": [
+        127.5, 
+        127.5, 
+        127.5
+    ], 
+    "channelOrder": "CHW", 
+    "outputNodeName": [
+        "detection_output_0.tmp_0"
+    ], 
+    "resize_mode": "cv2.INTER_LINEAR", 
+    "rescale_mode": "keep_size", 
+    "scale": [
+        0.007843, 
+        0.007843, 
+        0.007843
+    ], 
+    "colorFormat": "BGR", 
+    "inputNodeName": [
+        "image"
+    ], 
+    "resize": [
+        640, 
+        640
+    ]
+}
